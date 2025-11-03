@@ -23,3 +23,6 @@ Use keyword type to declare new types
 
 ### [6-sum_mixed_list.py](./6-sum_mixed_list.py)
 Function to sum the contents of a list of mixed type(integers and floats)
+
+### [7-to_kv.py](./7-to_kv.py)
+Function that takes a string and an int or float and returns a tuple

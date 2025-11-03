@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """ sum_mixed_list """
+from typing import Union
 
 
-Vector = list[float | int]
+Vector = list[Union[float, int]]
 
 
 def sum_mixed_list(mxd_lst: Vector) -> float:
