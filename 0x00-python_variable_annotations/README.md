@@ -26,3 +26,9 @@ Function to sum the contents of a list of mixed type(integers and floats)
 
 ### [7-to_kv.py](./7-to_kv.py)
 Function that takes a string and an int or float and returns a tuple
+
+### [8-make_multiplier.py](./8-make_multiplier.py)
+Function that takes a float as argument and returns a function
+
+### [9-element_length.py](./9-element_length.py)
+Annotate a given function
