@@ -20,3 +20,6 @@ Use type annotations to define variables
 
 ### [5-sum_list.py](./5-sum_list.py)
 Use keyword type to declare new types
+
+### [6-sum_mixed_list.py](./6-sum_mixed_list.py)
+Function to sum the contents of a list of mixed type(integers and floats)

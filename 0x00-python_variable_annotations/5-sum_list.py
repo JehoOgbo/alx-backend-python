@@ -4,6 +4,7 @@
 
 Vector = list[float]
 
+
 def sum_list(input_list: Vector) -> float:
     """
     sum_list - add all values of a list
