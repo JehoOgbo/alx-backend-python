@@ -8,3 +8,6 @@ Write a type-annotated function that takes a adds two floats
 
 ### [1-concat.py](./1-concat.py)
 Type-annotated function that concatenates two strings
+
+### [2-floor.py](./2-floor.py)
+Type-annotated function that returns the floor of a float
