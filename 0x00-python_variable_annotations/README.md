@@ -17,3 +17,6 @@ Type-annotated function that returns the string representation of a float
 
 ### [4-define_variables.py](./4-define_variables.py)
 Use type annotations to define variables
+
+### [5-sum_list.py](./5-sum_list.py)
+Use keyword type to declare new types
