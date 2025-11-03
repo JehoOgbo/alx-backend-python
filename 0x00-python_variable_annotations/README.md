@@ -14,3 +14,6 @@ Type-annotated function that returns the floor of a float
 
 ### [3-to_str.py](./3-to_str.py)
 Type-annotated function that returns the string representation of a float
+
+### [4-define_variables.py](./4-define_variables.py)
+Use type annotations to define variables
