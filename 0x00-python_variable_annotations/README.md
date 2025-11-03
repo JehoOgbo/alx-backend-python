@@ -11,3 +11,6 @@ Type-annotated function that concatenates two strings
 
 ### [2-floor.py](./2-floor.py)
 Type-annotated function that returns the floor of a float
+
+### [3-to_str.py](./3-to_str.py)
+Type-annotated function that returns the string representation of a float
